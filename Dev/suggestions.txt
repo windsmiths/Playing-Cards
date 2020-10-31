@@ -1,0 +1,12 @@
+Snap to grid for layout
+Allow for order of steps in an automation button to be edited
+Treat players hands as special class of Card Holder (e.g link players Show Hand widget to a Holder and show number of cards in hand, make it so that it can only be picked up, not flipped)
+Have a text widget and allow placeholders in text (e.g. #PlayerName for name of player, players would need to provide this when joining a table)
+Have an option for Card Holders to show cards overlapped rather than stacked and allow top 'n' cards of pile to be moved by dragging on the nth card (e.g. to allow patience games)
+Have a way of grouping a set of Card Holders together and associating them with a player
+
+
+Allow spaces in hand
+Dont show other players cursors in Show Hand area
+Give counters names
+Locking Holders that aren't associated with player
